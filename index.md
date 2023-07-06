@@ -1,3 +1,7 @@
+---
+title: test
+---
+
 # Wordle Difficulty Analysis
 Project description
 
