@@ -1,1 +1,2 @@
-Hello World!!!
+# Wordle Difficulty Analysis
+Project description
