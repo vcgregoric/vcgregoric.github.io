@@ -1,5 +1,5 @@
 ---
-title: test
+title: Vince Gregoric's Portfolio
 ---
 
 # Wordle Difficulty Analysis
