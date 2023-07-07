@@ -10,5 +10,6 @@ This project is an attempt to develop a machine learning model to predict the di
 - [https://en.wikipedia.org/wiki/Letter_frequency](https://en.wikipedia.org/wiki/Letter_frequency)
 
 A slide deck summarizing the results of this project can be found [here](https://github.com/vcgregoric/Wordle_Analysis/blob/main/summary_slides.pdf).
-<img src="./Images/distribution_of_guesses.png" width="50%" alt="Distribution of guesses for Wordle puzzles 202-696">
-<img src="./Images/coefficients.png" width="50%" alt="Linear regression coefficients for the Wordle machine learning model">
+
+<img src="./Images/distribution_of_guesses.png" alt="Distribution of guesses for Wordle puzzles 202-696">
+<img src="./Images/coefficients.png" alt="Linear regression coefficients for the Wordle machine learning model">
