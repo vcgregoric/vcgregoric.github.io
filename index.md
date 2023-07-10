@@ -13,3 +13,4 @@ A slide deck summarizing the results of this project can be found [here](https:/
 
 <img src="./Images/distribution_of_guesses.png" alt="Distribution of guesses for Wordle puzzles 202-696">
 <img src="./Images/coefficients.png" alt="Linear regression coefficients for the Wordle machine learning model">
+<img src="./Images/score_summary.png" alt="Summary of scores for various machine learning models used in the Wordle project">
